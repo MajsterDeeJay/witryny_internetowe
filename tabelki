@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>tabele</title>
+</head>
+<body>
+<table >
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+</table>
+
+<table border="1 px" >
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" >
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" >
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" bgcolor="red" >
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" >
+<tr bgcolor="red" >
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr bgcolor="blue" >
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr bgcolor="green" >
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr bgcolor="yellow" >
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr bgcolor="gray" >
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" >
+<tr>
+	<td bgcolor="red">komórka1</td>
+	<td bgcolor="blue">komórka2</td>
+	<td bgcolor="green">komórka3</td>
+	<td bgcolor="yellow">komórka4</td>
+	<td bgcolor="gray">komórka5</td>
+</tr>
+
+<tr>
+	<td bgcolor="blue">komórka2</td>
+	<td bgcolor="green">komórka3</td>
+	<td bgcolor="yellow">komórka4</td>
+	<td bgcolor="gray">komórka5</td>
+	<td bgcolor="red">komórka1</td>
+</tr>
+<tr>
+	<td bgcolor="green">komórka3</td>
+	<td bgcolor="yellow">komórka4</td>
+	<td bgcolor="gray">komórka5</td>
+	<td bgcolor="red">komórka1</td>
+	<td bgcolor="blue">komórka2</td>
+</tr>
+<tr>
+	<td bgcolor="yellow">komórka4</td>
+	<td bgcolor="gray">komórka5</td>
+	<td bgcolor="red">komórka1</td>
+	<td bgcolor="blue">komórka2</td>
+	<td bgcolor="green">komórka3</td>
+</tr>
+<tr>
+	<td bgcolor="gray">komórka5</td>
+	<td bgcolor="red">komórka1</td>
+	<td bgcolor="blue">komórka2</td>
+	<td bgcolor="green">komórka3</td>
+	<td bgcolor="yellow">komórka4</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" background="pliki_5/tlo/tlo.jpg" >
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" >
+<caption align="top">tabelka</caption> 
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" width="500 px" height="700 px" >
+	<caption align="bottom">tabela dziaaj</caption>
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" width="100%" height="100%" >
+	<caption align="bottom">tabela dziaaj</caption>
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" width="100%" height="100%" >
+	<caption align="bottom">tabela dziaaj</caption>
+<tr>
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td width="500 px" height="700 px">komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>	
+</table>
+
+
+<table border="1 px" cellspacing="5 px" cellpadding="5 px" width="700 px" height="500 px" >
+	<caption align="bottom">tabela dziaaj</caption>
+<tr align="right">
+	<td>komórka1</td>
+	<td>komórka2</td>
+	<td>komórka3</td>
+	<td>komórka4</td>
+	<td>komórka5</td>
+</tr>
+
+<tr <td align="right" valign="bottom" >
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+<tr>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+	<td>komórka1</td>
+</tr>
+</table>
+
+<table border="1 px">
+	<tr>
+	  <td colspan="2">komórka 1</td>
+	  <td>komórka 2</td>
+	  <td>komórka 3</td>
+	  <td>komórka 4</td>
+	</tr>
+	<tr>
+	  <td>komórka 5</td>
+	  <td>komórka 6</td>
+	  <td>komórka 7</td>
+	  <td>komórka 8</td>
+	  <td>komórka 9</td>
+	</tr>
+	<tr>
+	  <td>komórka 10</td>
+	  <td>komórka 11</td>
+	  <td>komórka 12</td>
+	  <td>komórka 13</td>
+	  <td>komórka 14</td>
+	</tr>
+	<tr>
+	  <td>komórka 15</td>
+	  <td rowspan="2">komórka 16</td>
+	  <td>komórka 17</td>
+	  <td>komórka 18</td>
+	  <td>komórka 19</td>
+	</tr>
+	<tr>
+	  <td>komórka 20</td>
+	  <td>komórka 21</td>
+	  <td>komórka 22</td>
+	  <td>komórka 23</td>
+	</tr>
+  </table>
+<br>
+  <table border="1 px">
+	<tr>
+	  <td colspan="2">komórka 1</td>
+	  <td>komórka 2</td>
+	  <td>komórka 3</td>
+	  <td>komórka 4</td>
+	</tr>
+	<tr>
+	  <td>komórka 5</td>
+	  <td rowspan="2">komórka 6</td>
+	  <td>komórka 7</td>
+	  <td>komórka 8</td>
+	  <td rowspan="4">komórka 9</td>
+	</tr>
+	<tr>
+	  <td>komórka 10</td>
+	  <td>komórka 12</td>
+	  <td>komórka 13</td>
+	</tr>
+	<tr>
+	  <td colspan="4">komórka 15</td>
+	</tr>
+	<tr>
+	  <td>komórka 20</td>
+	  <td>komórka 5</td>
+	  <td>komórka 21</td>
+	  <td>komórka 22</td>
+	</tr>
+  </table>
+  <br>
+  <table >
+	<tr>
+		<th>komórka1</th>
+		<th>komórka2</th>
+		<th>komórka3</th>
+		<th>komórka4</th>
+		<th>komórka5</th>
+	</tr>
+	
+	<tr>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+	</tr>
+	<tr>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+	</tr>
+	<tr>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+	</tr>
+	<tr>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+		<td>komórka1</td>
+	</tr>
+	</table>
+
+	<table border="3 px">
+		<tr>
+			<td><table border="1 px">
+				<tr>
+					<td>komórka 1 w komórce 1</td>
+					<td>komórka 2 w komórce 1</td>
+				</tr>
+				<tr>
+					<td>komórka 3 w komórce 2</td>
+					<td>komórka 4 w komórce 2</td>
+				</tr>
+			</table></td>
+			<td rowspan="2">Komórka 3</td>
+		</tr>
+		<tr>
+			<td colspan="3">Komórka 4</td>
+		</tr>
+	</table>
+</body>
+</html>
